@@ -1,4 +1,4 @@
-WebGPU Fundamentals
+WebGPU Fundamentals zh-CN（施工中）
 =====================
 
 This is [a series of lessons or tutorials about webgpu](http://webgpufundamentals.org/).
